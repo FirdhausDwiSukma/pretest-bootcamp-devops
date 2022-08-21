@@ -49,6 +49,6 @@ Silahkan buat docker-compose filenya, kemudian simpan dalam folder `tasks` denga
 
 Cara pengerjaan, silahkan update file ini tulis jawabanya di bawah ini
 
-1. Orchestration Container System sebuah mengotomatiskan penerapan, pengelolaan, penskalaan, dan jaringan container. Biasanya Orchestration Container System dapat digunakan di lingkungan mana pun tempat kita saat menggunakan container.
+1. Orchestration Container System merupakan mengotomatiskan penerapan, pengelolaan, penskalaan, dan jaringan container. Biasanya Orchestration Container System dapat digunakan di lingkungan mana pun tempat kita saat menggunakan container.
 2. Kubernetes sangat populer dikarenakan dari kubernetes memiliki keunggulan dalam mekanisme pembuatan aplikasi serta deployment yang efektif, pemisahan kepentingan antara dev dan Ops, dan pretest-bootcamp-devops.
 
